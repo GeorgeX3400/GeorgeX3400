@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeorgeX3400
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity projects.
+- 🌱 I’m currently a student in Computer Science
 - 📫 How to reach me: e-mail-> george.fs311@gmail.com
 
 <!---
